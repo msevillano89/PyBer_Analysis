@@ -5,7 +5,7 @@ V. Isualize requested additional analysis of their ride-sharing data by city typ
 - Variability of key data points for each city type.
 Finally, based on the new findings, we will provide the company with a few action items to consider putting in place.
 
-## Results Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Results
 From the below summary table, we can conclude the following:
 
 ![Summary Table](https://github.com/msevillano89/PyBer_Analysis/blob/main/analysis/Screen%20Shot%202022-06-11%20at%204.47.12%20PM.png)
@@ -27,4 +27,4 @@ From the chart generated above, we can conclude the following:
 ### Recommendations
 1. **Increase fares in Urban cities:** High demand should lead to higher profit margins.
 2. **Increase the number of drivers in Suburban and Rural cities:** these cities have higher average fares than urban cities, so more drivers should lead to higher revenue.
-3. There's an opportunity to expand the analysis to a full year to understand activity behavior. If there are repeated patterns where total fares are at their highest regardless of the city type, the company might consider adding a surcharge. Moreover, in the seasons when activity is at its lowest, the company can add a promotion to encourage people to utilize the service. 
+3. There's an opportunity to **expand the analysis to a full year to understand activity behavior:** If there are repeated patterns where total fares are at their highest regardless of the city type, the company might consider adding a surcharge. Moreover, in the seasons when activity is at its lowest, the company can add a promotion to encourage people to utilize the service. 
